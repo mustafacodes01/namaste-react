@@ -1,0 +1,21 @@
+{
+  "name": "react101",
+  "version": "1.0.0",
+  "description": "This is Namaste React",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/mustafacodes1/namaste-react.git)"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Mustafa",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
